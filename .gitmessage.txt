@@ -1,0 +1,4 @@
+Subject of the commit message (50 characters max)
+
+Detailed description of the changes made (72 characters max)
+Remember to focus on the WHY, not the HOW.
