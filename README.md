@@ -1,8 +1,8 @@
-# Title of your repository
+# Excel automation
 
 ## Description
 
-Place your repository description here.
+This repository aims to create tools that interface software source code to Excel, in order to be used for sensor calibration in-code updates.
 
 ## Getting started
 
@@ -15,4 +15,5 @@ Then generate a new Python 3 virtual environment by executing the following line
 
 To activate the Python virtual environment, execute\
 `call run.bat`
-
+To deactivate the Python virtual environment, execute\
+`call end.bat`
