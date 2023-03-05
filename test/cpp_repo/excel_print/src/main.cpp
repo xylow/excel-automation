@@ -30,10 +30,10 @@ void setup()
 void loop()
 {
     // -###- Code automation
-    param1 = 0; 
-    param2 = 0;
-    param3 = 0;
-    param4 = 0;
-    param5 = 0;
-    param6 = 0;
+    param1 = 0; // a1
+    param2 = 1; // d2
+    param3 = 2; // d4
+    param4 = 3; // d52
+    param5 = 4; // f3
+    param6 = 5; // g6
 }
